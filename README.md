@@ -2,7 +2,8 @@
 
 ### https://www.canvasxpress.org
 
-CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities.
+CanvasXpress a stand-alone JavaScript Library for Data Analytics. Built for the purpose of reproducible research with a sophisticated and unobtrusive user interface. Full and effortless audit trail of data, configuration and all user interactions in every visualization without any extra coding.
+
 
 ## Installation
 
@@ -101,7 +102,7 @@ Install the CanvasXpress Node modules from [npmjs](https://www.npmjs.com/package
   
 ## License  
 
-CanvasXpress is free for personal and educational use. Obtain a license for comercial purposes. Follow this [link](https://canvasxpress.org/contact.html)
+CanvasXpress is free for personal and educational use. To obtain a license for comercial purposes please follow this [link](https://canvasxpress.org/contact.html)
   
 ### How to hide the CanvasXpress watermark
 
