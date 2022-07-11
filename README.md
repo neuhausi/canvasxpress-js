@@ -99,4 +99,18 @@ Install the CanvasXpress Node module from [npmjs](https://www.npmjs.com/package/
 #### React Integration
 Install the CanvasXpress Node modules from [npmjs](https://www.npmjs.com/package/canvasxpress-react) to easily integrate with React JS.  
   
+## License  
+
+CanvasXpress is free for personal and educational use. Obtain a license for comercial purposes. Follow this [link](https://canvasxpress.org/contact.html)
   
+### How to hide the CanvasXpress watermark
+
+Please follow this instructions replacing the Xs with your license
+  
+```html
+  // Include the following HTML snippet in the head of your web pages(s)
+  // before the line that references the canvasXpress.min.js file.
+  <script>
+    window.cX="XXXXXXXXXXX";
+  </script>
+```  
