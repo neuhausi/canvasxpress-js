@@ -81,8 +81,9 @@ Include a <canvas> element inside the <body> element where the visualization wil
 
 </html>
 ```  
-  
-![cX-canvasId](https://user-images.githubusercontent.com/254923/178363565-7612293f-357d-4676-a50c-fa43f281a3d7.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/254923/178363565-7612293f-357d-4676-a50c-fa43f281a3d7.png" width="540" height="540">
+</p>
   
 ## Integration with other frameworks
 
