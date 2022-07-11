@@ -1,1 +1,1 @@
-# canvasxpress-js
+# CanvasXpress
