@@ -114,3 +114,6 @@ Please follow this instructions replacing the Xs with your license
     window.cX="XXXXXXXXXXX";
   </script>
 ```  
+
+ ### For more information about CanvasXpress visit our wbe page at https://www.canvasxpress.org
+  
