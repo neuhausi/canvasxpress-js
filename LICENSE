@@ -1,0 +1,106 @@
+CanvasXpress Community License (Attribution)
+Version 1.0
+
+Copyright (c) 2009-2026 Isaac M. Neuhaus / CanvasXpress. All rights reserved.
+License steward: license@canvasxpress.org
+Full terms and pricing: https://www.canvasxpress.org/license.html
+
+This license governs the CanvasXpress JavaScript library. The CanvasXpress
+package for R is licensed separately under GPL-3 and the CanvasXpress package
+for Python separately under MIT; neither is subject to the attribution or
+mark-suppression terms below.
+
+--------------------------------------------------------------------------------
+SUMMARY (non-binding)
+
+CanvasXpress is free to use anywhere -- including in commercial products -- as
+long as the CanvasXpress attribution mark it renders remains visible. To suppress
+or hide the mark you need a Commercial License (a license key removes the mark).
+See https://www.canvasxpress.org/license.html. The numbered terms govern.
+--------------------------------------------------------------------------------
+
+1. DEFINITIONS
+   1.1 "Software" means the CanvasXpress JavaScript distribution (the canvasxpress
+       browser bundle and files distributed with it), in source or compiled form.
+   1.2 "You" means the individual or legal entity exercising rights under this
+       License.
+   1.3 "The Mark" means the CanvasXpress attribution notice the Software renders
+       on its output (the on-canvas watermark and any equivalent attribution the
+       Software emits).
+   1.4 "Commercial License" means a separate paid agreement from CanvasXpress that
+       grants the right to suppress the Mark.
+   1.5 "License Key" means a credential issued by CanvasXpress (including any
+       domain-bound token) that, when validly present, suppresses the Mark.
+
+2. GRANT OF RIGHTS (COMMUNITY TIER)
+   Subject to Section 3, CanvasXpress grants You a worldwide, royalty-free,
+   non-exclusive license to use, copy, modify, and distribute the Software and
+   works built with it, for any purpose including commercial purposes, at no
+   charge.
+
+3. CONDITIONS
+   3.1 Attribution. The Mark the Software renders must remain visible and
+       unaltered in all output the Software produces. You must not remove, hide,
+       obscure, resize into illegibility, reposition off-canvas, recolor to match
+       the background, disable, or otherwise defeat the Mark by any means -- in the
+       source, at build time, or at runtime -- unless You hold a current Commercial
+       License.
+
+   3.2 No circumvention (technological protection measure). The License Key check
+       and the Mark-rendering code together constitute a technological protection
+       measure ("TPM") that controls access to the un-marked form of the Software.
+       You must not disable, bypass, circumvent, remove, spoof, decrypt,
+       descramble, or otherwise defeat that TPM, and you must not manufacture,
+       distribute, or make available any product, code, service, or information
+       primarily designed or produced to do so, whether performed in the source, at
+       build time, or at runtime. Forging, sharing, or reusing a License Key beyond
+       its issued scope is a material breach and an act of circumvention. The
+       parties acknowledge that this TPM is protected by anti-circumvention law,
+       including 17 U.S.C. Section 1201 (U.S. DMCA) and Article 6 of Directive
+       2001/29/EC (EU) and their equivalents, and that circumvention gives rise to
+       statutory remedies in addition to any remedy for breach of this License.
+
+   3.3 No reverse engineering (with interoperability carve-out). You must not
+       reverse assemble, reverse compile, or reverse engineer the Software, or
+       cause a third party to do so, for the purpose of defeating the TPM in
+       Section 3.2 or removing the Mark. This Section 3.3 does not prohibit, and
+       nothing in this License restricts, reverse engineering that is permitted by
+       applicable non-waivable law -- including decompilation for interoperability
+       under Article 6 of Directive 2009/24/EC (EU Software Directive) -- to the
+       extent such reverse engineering is not used to circumvent the TPM or remove
+       the Mark.
+
+   3.4 Notices. You must retain this License text, the copyright notice, and the
+       disclaimer in all copies or substantial portions of the Software.
+
+   3.5 No misrepresentation. You must not remove or alter the origin of the
+       Software or represent it as your own original work, and you must not use the
+       CanvasXpress name or marks to endorse products derived from the Software
+       without permission.
+
+4. COMMERCIAL LICENSE (MARK SUPPRESSION)
+   The right to suppress the Mark is not granted by this License and is available
+   only under a Commercial License. A valid License Key issued under a Commercial
+   License suppresses the Mark automatically; this is a permitted exercise of that
+   License and is not a breach of Section 3. Commercial Licenses may be scoped (per
+   developer, per domain, per term) as stated at purchase.
+
+5. TERMINATION
+   If You breach Section 3, the rights granted under Section 2 terminate
+   automatically. They are reinstated prospectively if You cure the breach within
+   30 days of becoming aware of it. A Commercial License, if held, governs its own
+   termination.
+
+6. RELATIONSHIP TO OTHER CANVASXPRESS DISTRIBUTIONS
+   This License covers only the JavaScript Software. The CanvasXpress package for
+   R is licensed separately under GPL-3 and the CanvasXpress package for Python
+   separately under MIT; neither is subject to the attribution or Mark-suppression
+   terms here.
+
+7. WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL CANVASXPRESS OR
+   THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+   WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
