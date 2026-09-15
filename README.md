@@ -14,7 +14,7 @@ The canvasXpress library conists of two files: (1) a CSS file, canvasXpress.css 
 <script type="text/javascript" src="https://www.canvasxpress.org/dist/canvasXpress.min.js"></script>
 ```
   
-or downloaded and included in the <head> section of the web page pointing to the desired location. Please contact us obtain a license.
+or downloaded and included in the <head> section of the web page pointing to the desired location. The library is also on npm (`npm install canvasxpress`, ESM + UMD + TypeScript definitions) and cdnjs.
 
 ```html
 <link rel="stylesheet" href="path-to-canvasXpress.css" type="text/css"/>
@@ -101,13 +101,13 @@ Install the CanvasXpress Node module from [npmjs](https://www.npmjs.com/package/
 #### React Integration
 Install the CanvasXpress Node modules from [npmjs](https://www.npmjs.com/package/canvasxpress-react) to easily integrate with React JS.  
   
-## License  
+## License
 
-CanvasXpress is free for personal and educational use. To obtain a license for comercial purposes please follow this [link](https://canvasxpress.org/contact.html)
-  
+The CanvasXpress JavaScript library is distributed under the **CanvasXpress Community License (Attribution)** — see [LICENSE](LICENSE) and the full terms, FAQ and pricing at https://www.canvasxpress.org/license.html. In short: free to use, including in commercial products, as long as the CanvasXpress attribution mark stays visible; a commercial license removes the mark and adds support. The R package is GPL-3 and the Python package is MIT; neither is subject to the attribution terms.
+
 ### How to hide the CanvasXpress watermark
 
-Please follow this instructions replacing the Xs with your license
+With a commercial license, replace the Xs with your license key
   
 ```html
   // Include the following HTML snippet in the head of your web pages(s)
@@ -117,6 +117,6 @@ Please follow this instructions replacing the Xs with your license
   </script>
 ```  
 
- ### For more information about CanvasXpress visit our wbe page at https://www.canvasxpress.org
+ ### For more information about CanvasXpress visit our web page at https://www.canvasxpress.org
   
 
